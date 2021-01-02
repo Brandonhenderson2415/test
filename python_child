@@ -1,0 +1,3 @@
+New = "Happiness, and joy"
+
+print(New)
